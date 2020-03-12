@@ -1,0 +1,10 @@
+Linux进程的创建与管理：
+
+https://blog.csdn.net/qq_38410730/article/details/81193118
+
+
+linux中fork（）函数详解：
+
+https://www.cnblogs.com/dongguolei/p/8086346.html
+
+and more in WWW... 
